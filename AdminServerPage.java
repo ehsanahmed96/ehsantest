@@ -24,7 +24,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 public  class AdminServerPage extends AnchorPane {
-    Stage parentStage;
+    Stage parentStages;
     protected final BorderPane borderPane;
     protected final AnchorPane anchorPane;
     protected final Glow glow;
